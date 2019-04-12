@@ -1,0 +1,9 @@
+    
+.modal {
+    background-color: #4444446e;
+}
+
+.modal-content {
+    position: relative;
+    top: 15rem;
+}

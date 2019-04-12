@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Peter Griffin",
+        "image": "https://www.thoughtco.com/thmb/H9V_z_oYhbKldDJJUL53tVN36cQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/peter_2008_v2F_hires1-56a00f083df78cafda9fdcb6.jpg" 
+    },
+    {
+        "id": 2,
+        "name": "Lois Griffin",
+        "image": "https://www.thoughtco.com/thmb/qL9NuJ5lmmRzMyFngIz9SyYjSiw=/520x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fGuy2006_Lois_f-56a00b003df78cafda9fc743.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Stewie",
+        "image": "https://www.thoughtco.com/thmb/fc5QH6AXdNtQRwuaQevxSSiwp1k=/520x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fGuy2006_Stewie1_f-56a00b003df78cafda9fc746.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Brian",
+        "image": "https://img.playbuzz.com/image/upload/ar_1.5,c_pad,f_jpg,b_auto/q_auto:good,f_auto,fl_lossy,w_640,c_limit/cdn/0976468b-fe03-49ef-b50a-520ec8e5644b/478d0e82-addf-44dc-83ee-3954fe9f64a0.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Meg",
+        "image": "https://www.thoughtco.com/thmb/_q3WDsOk_KSBGoS8sh2LU2-FFhM=/520x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fGuy2006_Meg_f-56a00b005f9b58eba4aea214.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Chris",
+        "image": "https://www.thoughtco.com/thmb/D6_8tRfI1EJ2UHXQYKY5UoNRUUI=/520x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fGuy2006_Chris_f-56a00aff3df78cafda9fc740.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Quagmire",
+        "image": "https://www.thoughtco.com/thmb/1k4LHSdZPiQNnbxMXT_xcXwRX24=/475x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fGuyQuagmireArt_v1fa-57a96bf33df78cf459bb222a.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Cleveland",
+        "image": "https://www.thoughtco.com/thmb/YQHv1e_Hoz8eXCu3M3pcbE5T3Tg=/290x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cleveland_v2Fb080309-56a00cf55f9b58eba4aead78.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Joe",
+        "image": "https://www.thoughtco.com/thmb/8M-rA83vv46mnsYmgYibXxZ1s7o=/4800x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cacx01_061_03b_0337_hires2-56a010075f9b58eba4aeb9c5.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Tom",
+        "image": "https://img.playbuzz.com/image/upload/ar_1.5,c_pad,f_jpg,b_auto/q_auto:good,f_auto,fl_lossy,w_640,c_limit/cdn/0976468b-fe03-49ef-b50a-520ec8e5644b/925ebee6-bf9d-4979-91f8-059d08f3d425.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Bonnie",
+        "image": "https://img.playbuzz.com/image/upload/ar_1.5,c_pad,f_jpg,b_auto/q_auto:good,f_auto,fl_lossy,w_640,c_limit/cdn/0976468b-fe03-49ef-b50a-520ec8e5644b/d17ad9f2-3d20-4cd1-a17a-b608e6e33a92.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Bertram",
+        "image": "https://img.playbuzz.com/image/upload/ar_1.5,c_pad,f_jpg,b_auto/q_auto:good,f_auto,fl_lossy,w_640,c_limit/cdn/0976468b-fe03-49ef-b50a-520ec8e5644b/4658aaff-a3e3-4633-950b-051bfd44784c.jpg"
+    }
+]
